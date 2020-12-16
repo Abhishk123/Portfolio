@@ -25,14 +25,14 @@ const Sidebar=()=>{
             </div>
         </a>
         <figure className='sidebar_social-icons my-2'>
-            <a href=""><img src={facebook} alt="facebook" className="sidebar_icon mr-3"/></a>
-            <a href=""><img src={instagram} alt="instagram" className="sidebar_icon"/></a>
+            <a href="!#"><img src={facebook} alt="facebook" className="sidebar_icon mr-3"/></a>
+            <a href="!#"><img src={instagram} alt="instagram" className="sidebar_icon"/></a>
 
         </figure>
 
         <div className="contact">
             <div className="sidebar_item sidebar_github">
-                <a href=""><img src={github} alt="github" className="sidebar_icon mr-3"/>github</a>
+                <a href="https://github.com/Abhishk123/" target="_blank" rel='noopener noreferrer'><img src={github} alt="github" className="sidebar_icon mr-3"/>github</a>
             </div>
             <div className="sidebar_location">
                 <img src={pin} alt="location" className="sidebar_icon mr-3"/>
