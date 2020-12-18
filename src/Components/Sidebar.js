@@ -31,7 +31,10 @@ const Sidebar=()=>{
         </figure>
 
         <div className="contact">
-            <div className="sidebar_item sidebar_github">
+
+<div className="contact_details">
+
+<div className="sidebar_item sidebar_github">
                 <a href="https://github.com/Abhishk123/" target="_blank" rel='noopener noreferrer'><img src={github} alt="github" className="sidebar_icon mr-3"/>github</a>
             </div>
             <div className="sidebar_location">
@@ -40,6 +43,7 @@ const Sidebar=()=>{
             </div>
             <div className="sidebar_item">abhishekurst@gmail.com</div>
             <div className="sidebar_item">6361247286</div>
+            </div>
         </div>
 
         <div className="sidebar_item sidebar_email" onClick={handleEmailMe}>Email Me</div>
