@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
     <div className="App">
-     <div className="container">
+     <div className="container app_container">
      <div className="row">
      <div className="col-lg-3">
         
