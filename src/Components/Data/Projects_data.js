@@ -1,6 +1,6 @@
 import android from '../../assets/projects_images/android.jpeg'
 import php from '../../assets/projects_images/php.jpeg'
-import portfolio from '../../assets/projects_images/portfolio.JPG'
+
 import port from '../../assets/projects_images/port.png'
 
 
